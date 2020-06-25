@@ -15,6 +15,7 @@ import java.util.Scanner;
  * Use enumerators to avoid input errors
  * and print the status details. 
  * @author srinivsi date:June 24th
+ * modifier Gautam Naman Sharma date june 25,2020
  */
 public class Status {
 

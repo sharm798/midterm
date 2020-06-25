@@ -8,6 +8,8 @@ package status;
 /**
  * june 24th
  * @author srinivsi
+ * modifier Gautam Naman Sharma
+ * june 25,2020
  */
 public class StausUser 
 {
